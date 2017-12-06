@@ -28,7 +28,7 @@ We use [AngioTool 0.6a](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3217985/), 
 
 AngioTool outputs values such as 
 
-![angiotooltable](../img/angiotooltable.png)
+![angiotooltable](../img/angiotooltable.png?raw=true)
 
 I was handed unlabelled data (i.e. I was blinded) and told to tweak the knobs and dials of AngioTool. 
 
@@ -42,7 +42,7 @@ I was handed unlabelled data (i.e. I was blinded) and told to tweak the knobs an
 
 We obtain images such as 
 
-![img/36-4b-field1result.jpg](./img/36-4b-field1result.jpg)
+![img/36-4b-field1result.jpg](../img/36-4b-field1result.jpg?raw=true)
 
 where the features are
 
