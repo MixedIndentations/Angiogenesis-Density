@@ -18,7 +18,7 @@ We use [AngioTool 0.6a](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3217985/), 
         - Introduces a scale factor that matches vessel size
     - Map the eigenvectors of the Hessian onto an ellipsoid where the axis' semi-lengths are magnitudes of respective eigenvalues
         - Magnitudes of eigenvalues describe structure
-        ![]({{"/img/HessianEigenValues.PNG"|absolute_url}})
+        ![](https://github.com/WillGiang/Angiogenesis-Density/blob/master/img/HessianEigenvalues.PNG)
 - [Convex Hull](http://scikit-image.org/docs/dev/auto_examples/edges/plot_convex_hull.html#sphx-glr-auto-examples-edges-plot-convex-hull-py)
     - Given a binary image, the convex hull is the set of pixels contained within the smallest convex polygon that will surround all of the foreground pixels.
     - Used for calculating area
@@ -27,8 +27,7 @@ We use [AngioTool 0.6a](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3217985/), 
     - Used for calculating vessel lengths
 
 AngioTool outputs values such as 
-![]({{"/img/angiotooltable.png"|absolute_url}})
-
+![](https://github.com/WillGiang/Angiogenesis-Density/blob/master/img/angiotooltable.png)
 I was handed unlabelled data (i.e. I was blinded) and told to tweak the knobs and dials of AngioTool. 
 
 - Vessel Thickness
@@ -40,7 +39,7 @@ I was handed unlabelled data (i.e. I was blinded) and told to tweak the knobs an
   - Frequently set to 0 due to being unncessary.
 
 We obtain images such as 
-![]({{"/img/36-4b-field1result.jpg"|absolute_url}})
+![](https://github.com/WillGiang/Angiogenesis-Density/blob/master/img/36-4b-field1result.jpg)
 
 where the features are
 
