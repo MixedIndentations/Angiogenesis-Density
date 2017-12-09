@@ -99,7 +99,6 @@ dependencies:
 - wcwidth=0.1.7=py35_0
 - webencodings=0.5=py35_0
 - wheel=0.30.0
-- widgetsnbextension=3.0.6=py35_0
 - xmltodict=0.11.0=py35_0
 - yaml=0.1.6
 - zlib=1.2.11
