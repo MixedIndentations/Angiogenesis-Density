@@ -100,9 +100,6 @@ dependencies:
 - webencodings=0.5=py35_0
 - wheel=0.30.0
 - widgetsnbextension=3.0.6=py35_0
-- win_inet_pton=1.0.1=py35_1
-- win_unicode_console=0.5=py35_0
-- wincertstore=0.2=py35_0
 - xmltodict=0.11.0=py35_0
 - yaml=0.1.6
 - zlib=1.2.11
@@ -119,7 +116,3 @@ dependencies:
   - jupyter-console==5.2.0
   - jupyter-core==4.4.0
   - prompt-toolkit==1.0.15
-  - win-inet-pton==1.0.1
-  - win-unicode-console==0.5
-prefix: C:\Users\letmedoit\Anaconda3\envs\MyWindowsCV
-
