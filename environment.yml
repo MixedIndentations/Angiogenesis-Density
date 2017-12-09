@@ -5,7 +5,6 @@ channels:
 - conda-forge
 - defaults
 dependencies:
-- freetype=2.8=vc14h17c9bdf_0
 - libpng=1.6.32=vc14h5163883_3
 - libtiff=4.0.8=vc14h04e2a1e_10
 - matplotlib=2.1.0=py35hea29350_0
