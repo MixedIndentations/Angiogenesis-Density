@@ -15,12 +15,13 @@ After cloning this directory, you can re-create the environment from the `enviro
 
 ```conda env create -f environment.yml```
 
-Once the environment has been created, you can activate it via the following OS dependent commands
+Once the environment has been created, you can activate it via the following OS dependent commands:
+
 Windows: `activate angio`
+
 Mac OS X/Linux: `source activate angio`
 
-See [conda docs](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
-for more information.
+For more information, see [conda docs](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
 
 ## License
 
